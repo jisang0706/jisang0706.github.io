@@ -59,3 +59,4 @@ jekyll new . --force
 bundle exec jekyll serve
 ```
 `localhost:4000`으로 들어가니 잘 작동이 된다
+![Alt text](/assets/img/Jekyll-admin-screen.png "Git-admin")   
