@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll에 어서와!"
 date:   2021-11-11 15:37:43 +0900
 categories: jekyll update
 ---
