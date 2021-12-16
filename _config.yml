@@ -250,3 +250,7 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
+comment:
+  provider:       "disqus"
+  disqus:
+    shortname:    "super-corini"
